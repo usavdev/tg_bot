@@ -17,7 +17,7 @@ public class HelloBot extends AbilityBot {
 		super(BOT_TOKEN, BOT_USERNAME);
 	}
 
-	public static String BOT_TOKEN = "835877738:AAH9R1gE3vTK2YwqL-CDy6SCeWi8QkvQ1Kg";
+	public static String BOT_TOKEN = "";
 	public static String BOT_USERNAME = "hotusm";
 
 	
