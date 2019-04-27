@@ -30,7 +30,7 @@ public class OedBot extends TelegramLongPollingBot {
 
 	@Override
 	public String getBotToken() {
-		return "835877738:AAH9R1gE3vTK2YwqL-CDy6SCeWi8QkvQ1Kg";
+		return "";
 	}
 	
 	@SuppressWarnings("deprecation") // Означает то, что в новых версиях метод уберут или заменят
